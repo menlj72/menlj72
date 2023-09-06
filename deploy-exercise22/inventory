@@ -1,0 +1,6 @@
+[controlnode]
+localhost ansible_connection=local
+
+[intranetweb]
+vm-21-node1-ansible
+vm-21-node2-ansible
